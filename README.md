@@ -3,6 +3,10 @@ The project scrapes the data from coursera.org
 Clone the project
 ``` git clone https://github.com/NischalBhandari/scraping-project.git```
 
+
+then 
+```npm install```
+ 
 then run 
 ```npm run start:dev``` 
 
